@@ -1,7 +1,7 @@
 # DDoS Tool - by SK
 param (
     [string]$targetUrl,
-    [int]$requestCount = 10000  # Nombre de requêtes à envoyer
+    [int]$requestCount = 10000  # Nombre de requêtes à envoyer que tu peux augmenter jusqu'a 99999
 )
 
 $stopRequest = $false
