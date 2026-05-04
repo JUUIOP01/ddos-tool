@@ -1,6 +1,6 @@
 # DDoS Tool
 
-un tool puissant pour ddos nimporte quelle site web
+un tool puissant pour ddos nimporte quelle site web ```bash By SK
 
 ## Utilisation
 
@@ -13,4 +13,5 @@ un tool puissant pour ddos nimporte quelle site web
 3. ```bash
    powershell -ExecutionPolicy Bypass -File ddos-tool.ps1 -targetUrl "http://ton-site.com" -requestCount 10000
    
-4.pour ensuite arreter votre ddos il te restera juste a faire la commands suivante : Stop-DDoS
+4.pour ensuite arreter votre ddos il te restera juste a faire la commands suivante  ```bash
+Stop-DDoS
